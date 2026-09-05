@@ -2,7 +2,7 @@
 
 ### Hi, I'm Arick Nguyen 👋
 
-**CS Junior('Dec 27)**
+**🎓Computer Science Student **
 
 I enjoy programming and building cool projects.
 
