@@ -1,8 +1,6 @@
------------------------------------------------
+# Hi, I'm Arick Nguyen 👋
 
-### Hi, I'm Arick Nguyen 👋
-
-**🎓Computer Science Student **
+>🎓Computer Science Student
 
 I enjoy programming and building cool projects.
 
