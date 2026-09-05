@@ -1,4 +1,4 @@
-# Hi, I'm Arick Nguyen 👋
+# Hi 👋 I'm Arick Nguyen 
 
 >🎓Computer Science Student
 
