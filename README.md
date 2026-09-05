@@ -1,16 +1,28 @@
-## Hi there 👋
+-----------------------------------------------
 
-<!--
-**arick579/arick579** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Arick Nguyen 👋
 
-Here are some ideas to get you started:
+**CS Junior('Dec 27)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy programming and building cool projects.
+
+-----------------------------------------------------
+
+### 💻 Tech Stack
+
+Languages: C++ (C++17/20), Python,  Bash/Shell
+
+Systems & Developer Tools: Linux (Ubuntu), Git/GitHub, NVIDIA CUDA, SQLite Visual Studio Code
+
+Security & Networking: CodeQL, RegEx, Input Sanitization, Threat Logging, Proxy Servers
+
+-----------------------------------------------------------
+
+### 📬 Let's Connect
+  
+* **Email:** [arickd38@gmail.com](mailto:arickd38@gmail.com)
+* **GitHub:** [@arick579](https://github.com/arick579)
+
+--------------------------------------------------------
+
+*Last updated: September 2026*
