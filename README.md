@@ -1,4 +1,6 @@
+### Hi 👋 my name is Arick Nguyen 
 
+-----------------------------------------------------------
 ### 📬 Let's Connect
   
 * **Email:** [arickd38@gmail.com](mailto:arickd38@gmail.com)
