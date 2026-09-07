@@ -1,4 +1,4 @@
-## Hi 👋 my name is Arick Nguyen 
+## Hi 👋 I'm Arick Nguyen 
 
 -----------------------------------------------------------
 ### 📬 Let's Connect
