@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Arick Nguyen 
 
 -----------------------------------------------------------
-### 📬 Let's Connect
+### 📬 How to reach me:
   
 * **Email:** [arickd38@gmail.com](mailto:arickd38@gmail.com)
 * **GitHub:** [@arick579](https://github.com/arick579)
