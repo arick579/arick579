@@ -1,6 +1,7 @@
 # Hi 👋 I'm Arick Nguyen 
 
 ### 🎓 I am a First-Gen University Student studying Computer Science and Cybersecurity, dedicated to exploring Database Architecture, Machine Learning, and Software Engineering.
+📍 Based in the United States
 -----------------------------------------------------------
 ### 📬 How to reach me:
   
