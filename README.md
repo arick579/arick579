@@ -1,4 +1,6 @@
-# Hi 👋 my name is Arick Nguyen 
+# 🌐 Hello, World! 
+
+### 💻 My name is Arick Nguyen.
 
 ### 🎓 I am a University Student based in the United States studying Computer Science and Cybersecurity, interested and passionate about Database Systems, Machine Learning, and Software Engineering.
 -----------------------------------------------------------
