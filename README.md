@@ -13,7 +13,7 @@
 
 ### 🎓 I am currently an undergraduate student based in the United States studying Computer Science and Cybersecurity, interested and passionate about Database Systems, Machine Learning, and Software Engineering.
 -----------------------------------------------------------
- I am looking for an internship!
+I am actively seeking Software Engineering, Cybersecurity, and AI/ML internship opportunities. If you're looking for a builder who loves tackling complex backend, security, and machine learning challenges, let's connect!
 ### 📬Reach me at:
   
 * **Email:** [arickd38@gmail.com](mailto:arickd38@gmail.com)
