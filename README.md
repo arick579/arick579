@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&width=580&lines=Computer+Science+%26+Cybersecurity;Software+Engineering+%26+Database+Systems;DevSecOps+%26+Machine+Learning" alt="Typing SVG Header">
 </picture>
 
-### 💻 Arick Nguyen | CS & Cybersecurity Student
+### 💻 Arick Nguyen | Computer Science & Cybersecurity Student
 
 ### 🎓 Education: Current 3rd-Year Undergraduate
 
