@@ -9,9 +9,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&width=580&lines=Computer+Science+%26+Cybersecurity;DevSecOps+%26+Cloud+Systems;Database+Systems+%26+Machine+Learning" alt="Typing SVG Header">
 </picture>
 
-### 💻 My name is Arick Nguyen.
+### 💻 My name is Arick Nguyen
 
-### 🎓 I am currently an undergraduate student based in the United States studying Computer Science and Cybersecurity, interested and passionate about Database Systems, Machine Learning, and Software Engineering.
+### 💡 Interests: Software Engineering, Machine Learning & Database Systems
+
+### 🛠️ Building: Scalable software and data-driven projects
 -----------------------------------------------------------
 I am actively seeking Software Engineering, Cybersecurity, and AI/ML internship opportunities. If you're looking for a builder who loves tackling complex backend, security, and machine learning challenges, let's connect!
 ### 📬Reach me at:
