@@ -14,7 +14,7 @@
 
 ### 💡 Interests: Software Engineering, Machine Learning & Database Systems
 ------------------------------------------------------------------------------
-### 💼 Status: Open to SWE, Cybersecurity & AI/ML Internship Opportunities
+### 💼 Status: Open to Internship Opportunities
 ### 📬 Reach me at:
 * **Email:** [arickd38@gmail.com](mailto:arickd38@gmail.com)
 
