@@ -16,9 +16,8 @@
 ------------------------------------------------------------------------------
 ### 💼 Status: Open to SWE, Cybersecurity & AI/ML Internship Opportunities
 ### 📬 Reach me at:
-  
 * **Email:** [arickd38@gmail.com](mailto:arickd38@gmail.com)
-* **GitHub:** [@arick579](https://github.com/arick579)
+
 
 --------------------------------------------------------
 
