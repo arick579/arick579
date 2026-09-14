@@ -10,7 +10,7 @@
 
 ### 💻 Arick Nguyen | Computer Science & Cybersecurity Student
 
-### 🎓 Education: Current 3rd-Year Undergraduate at Loyola University
+### 🎓 Education: Current 3rd-Year Undergraduate
 
 ### 💡 Interests: Software Engineering, DevSecOps, Machine Learning, Database Systems 
 ------------------------------------------------------------------------------
