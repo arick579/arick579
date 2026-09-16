@@ -14,7 +14,6 @@
 
 ### 💡 Interests: Software Engineering, DevSecOps, Machine Learning, Database Systems 
 ------------------------------------------------------------------------------
-### 💼 Status: Open to Internship Opportunities
 ### 📬 Reach me at:
 * **Email:** [arickd38@gmail.com](mailto:arickd38@gmail.com)
 
