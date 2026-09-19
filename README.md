@@ -14,8 +14,7 @@
 
 ### 💡 Interests: Software Engineering, Database Systems, Machine Learning
 ------------------------------------------------------------------------------
-### 📬 Reach me at:
-* **Email:** [arickd38@gmail.com](mailto:arickd38@gmail.com)
+### 📬 Reach me at: [arickd38@gmail.com](mailto:arickd38@gmail.com)
 
 
 --------------------------------------------------------
