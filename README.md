@@ -10,7 +10,7 @@
 
 ### 💻 Arick Nguyen | Computer Science & Cybersecurity Student
 
-### 🎓 Education: Current 3rd-Year Undergraduate
+### 🎓 Education: Current 3rd-Year Undergraduate Student
 
 ### 💡 Interests: Software Engineering, Database Systems, Machine Learning
 
