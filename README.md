@@ -12,7 +12,7 @@
 
 ### 🎓 Education: Current 3rd-Year Undergraduate Student
 
-### 💡 Interests: Software Engineering, Database Systems, AI/Machine Learning, DevSecOps
+### 💡 Interests: Database Systems, AI/Machine Learning, DevSecOps
 
 ### 📬 Reach me at: [arickd38@gmail.com](mailto:arickd38@gmail.com)
 
