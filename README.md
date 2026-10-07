@@ -26,10 +26,8 @@
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NVIDIA CUDA](https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ### Cloud & Infrastructure
@@ -40,7 +38,7 @@
 ![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)
 
 ### Security & DevSecOps
-![CodeQL](https://img.shields.io/badge/CodeQL_(SAST)-2088FF?style=for-the-badge&logo=github&logoColor=white)
+![CodeQL](https://img.shields.io/badge/CodeQL-2088FF?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions_(CI/CD)-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Reverse Proxies](https://img.shields.io/badge/Reverse_Proxies-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Audit Logging](https://img.shields.io/badge/Audit_Logging-4A154B?style=for-the-badge)
