@@ -1,11 +1,11 @@
 # 🌐 Hello, World! 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58a6ff&width=580&lines=Software+Engineering+%26+Database+Systems;Computer+Science+%26+Cybersecurity;DevSecOps+%26+Machine+Learning"">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58a6ff&width=580&lines=Software+Engineering+%26+Database+Systems;Computer+Science+%26+Cybersecurity;DevSecOps+%26+AI+Security"">
   
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1D4ED8&width=580&lines=Software+Engineering+%26+Database+Systems;Computer+Science+%26+Cybersecurity;DevSecOps+%26+Machine+Learning"">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1D4ED8&width=580&lines=Software+Engineering+%26+Database+Systems;Computer+Science+%26+Cybersecurity;DevSecOps+%26+AI+Security"">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&width=580&lines=Computer+Science+%26+Cybersecurity;Software+Engineering+%26+Database+Systems;DevSecOps+%26+Machine+Learning" alt="Typing SVG Header">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&width=580&lines=Computer+Science+%26+Cybersecurity;Software+Engineering+%26+Database+Systems;DevSecOps+%26+AI+Security" alt="Typing SVG Header">
 </picture>
 
 ### 💻 Arick Nguyen | Computer Science & Cybersecurity Student
@@ -21,14 +21,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B_17%2F20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Data & Machine Learning
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NVIDIA CUDA](https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ### Cloud & Infrastructure
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
