@@ -33,14 +33,12 @@
 ![CodeQL](https://img.shields.io/badge/CodeQL-2088FF?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions_(CI/CD)-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Reverse Proxies](https://img.shields.io/badge/Reverse_Proxies-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Audit Logging](https://img.shields.io/badge/Audit_Logging-4A154B?style=for-the-badge)
 
 ### Developer Tools
 ![Linux](https://img.shields.io/badge/Linux_(Ubuntu/Bash)-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GCC](https://img.shields.io/badge/GCC-00599C?style=for-the-badge&logo=gnu&logoColor=white)
-![MSYS2](https://img.shields.io/badge/MSYS2-000000?style=for-the-badge)
 
 
 
