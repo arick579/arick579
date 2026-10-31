@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/ARICK%20NGUYEN-Computer%20Science%20%26%20Cybersecurity%20%7C%20DevSecOps%20%26%20Security%20Engineering-00599C?style=for-the-badge&labelColor=007ACC" width="100%" alt="Arick Nguyen Banner" />
+  <img src="https://img.shields.io/badge/ARICK%20NGUYEN-Computer%20Science%20%26%20Cybersecurity-00599C?style=for-the-badge&labelColor=007ACC" width="100%" alt="Arick Nguyen Banner" />
 </div>
 
 <picture>
