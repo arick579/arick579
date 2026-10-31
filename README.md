@@ -1,4 +1,6 @@
-# 🌐 Hello, World! 
+<div align="center">
+  <img src="https://img.shields.io/badge/ARICK%20NGUYEN-Computer%20Science%20%26%20Cybersecurity%20%7C%20DevSecOps%20%26%20Security%20Engineering-00599C?style=for-the-badge&labelColor=007ACC" width="100%" alt="Arick Nguyen Banner" />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58a6ff&width=580&lines=AI+Engineering+%26+Database+Systems;Computer+Science+%26+Cybersecurity;DevSecOps+%26+AI+Security"">
